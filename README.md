@@ -1,5 +1,5 @@
 # Star War Repo
 
-![./darthVader.png](Darth Vader)
+![Darth Vader](darthVader.png)
 
 This repository is a example to the course of Git and Github.
